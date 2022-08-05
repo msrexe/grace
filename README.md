@@ -29,4 +29,4 @@ func main() {
 	}
 }
 ```
-For more examples, look at the [examples](github.com/msrexe/grace/tree/master/examples) directory.
+For more examples, look at the [example](github.com/msrexe/grace/tree/master/example) directory.
