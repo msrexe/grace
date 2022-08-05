@@ -1,9 +1,10 @@
 package main
 
 import (
-	"grace"
 	"log"
 	"net/http"
+
+	"github.com/msrexe/grace"
 )
 
 func main() {

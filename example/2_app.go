@@ -1,10 +1,11 @@
 package main
 
 import (
-	"grace"
 	"log"
 	"os"
 	"time"
+
+	"github.com/msrexe/grace"
 )
 
 // Example of timeout reached and force shutdown.
